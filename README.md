@@ -8,4 +8,6 @@ Bregman Divergence:
 - Kullback–Leibler (KL);
 - Itakura–Saito (IS).
 
+One episode:
+
 ![Episode](/assets/images/episode.jpg)
