@@ -1,4 +1,4 @@
-# Bregman Divergence for Few-shot learning
+# Bregman Divergence for Few-shot learning in crop pest classification
 Few_shot learning with Bregman Divergence for crop pest classification
 
 Bregman Divergence:
