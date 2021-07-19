@@ -12,6 +12,4 @@ One episode:
 
 ![Episode](/assets/images/episode.jpg)
 
-Two episode:
 
-![Episode](/assets/images/episode.jpg)
