@@ -7,3 +7,5 @@ Bregman Divergence:
 - Mahalanobis;
 - Kullback–Leibler (KL);
 - Itakura–Saito (IS).
+
+![Episode](/images/episode.jpg)
