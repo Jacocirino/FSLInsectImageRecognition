@@ -11,3 +11,5 @@ Bregman Divergence:
 One episode:
 
 ![Episode](/assets/images/episode.jpg)
+
+
