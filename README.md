@@ -5,8 +5,8 @@ Few_shot learning with Bregman Divergence for crop pest classification
 
 - Euclidean;
 - Mahalanobis;
-- Kullback–Leibler (KL);
-- Itakura–Saito (IS).
+- Kullback–Leibler (KL-divergence);
+- Itakura–Saito (IS-divergence).
 
 ## Dataset:
 
