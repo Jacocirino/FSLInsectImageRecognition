@@ -5,7 +5,7 @@ Matching networks is referred to [oscarknagg's code](https://github.com/oscarkna
 Prototypical networks is referred to [cnielly's code](https://github.com/cnielly/prototypical-networks-omniglot)
 
 ### Pairwise similarity with Bregman Divergences
-This **[file](/Bregman divergences/Bregman_divergences.py)**: provides the script for the Bregman divergences used as similarity functions. For use, replace the similarity functions in the chosen Few-shot Learning algorithm.
+This **[file](/Bregman_divergences.py)**: provides the script for the Bregman divergences used as similarity functions. For use, replace the similarity functions in the chosen Few-shot Learning algorithm.
 
 - Euclidean;
 - Mahalanobis;
