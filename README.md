@@ -19,7 +19,7 @@ Data set will be uploaded
 
 ### Adult maturity stage insect classification task:
 
-![Episode](/Figures/task_example_adult.jpg|width=400px)<img src="https://your-image-url.type" width="600">
+![Episode](/Figures/task_example_adult.jpg)<img src="https://your-image-url.type" width="600">
 
 #### Experiment results:
 ![Adult_results](/Figures/adult_results.png)
