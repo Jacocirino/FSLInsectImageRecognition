@@ -1,7 +1,8 @@
-# Bregman Divergence for Few-shot learning in crop pest classification
-Few_shot learning with Bregman Divergence for crop pest classification
+# This repository provides the supplementary data for the paper: Insect pest image recognition: A few-shot machine learning approach including maturity stages classification
 
-## Bregman Divergence
+Matching networks is referred to code from [oscarknagg's code](https://github.com/oscarknagg/few-shot)
+
+## Pairwise similarity with Bregman Divergences
 
 - Euclidean;
 - Mahalanobis;
