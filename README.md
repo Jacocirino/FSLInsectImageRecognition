@@ -1,6 +1,6 @@
 ## This repository provides the supplementary data for the paper: Insect pest image recognition
 
-Matching networks is referred to [oscarknagg's code](https://github.com/oscarknagg/few-shot)
+Matching networks is referred to [oscarknagg's code](https://github.com/oscarknagg/few-shot).
 
 ### Pairwise similarity with Bregman Divergences
 
