@@ -14,7 +14,7 @@ Matching networks is referred to [oscarknagg's code](https://github.com/oscarkna
 
 ### Method:
 
-![Episode](/Figures/episodeMatch.png)
+![Episode](/Figures/task_example_adult.jpg)
 
 
 ## Experiment results:
