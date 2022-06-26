@@ -22,14 +22,13 @@ Data set will be uploaded
 ![Episode](/Figures/task_example_adult.jpg)
 
 #### Experiment results:
-![Adult_results](/Figures/adult_results.jpg)
+![Adult_results](/Figures/adult_results.png)
 
 ### Early maturity stage insect classification task:
 
 ![Episode](/Figures/task_example_adult.jpg)
 
 #### Experiment results:
-![Early_results](/Figures/adult_results.jpg)
+![Early_results](/Figures/early_results.png)
 
-![Requirements](#README.md)
 
