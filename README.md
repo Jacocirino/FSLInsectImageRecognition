@@ -17,19 +17,19 @@ Prototypical networks is referred to [cnielly
 ### Dataset:
 Data set will be uploaded
 
-### An adult maturity stage insect classification task:
+### Adult maturity stage insect classification task:
 
 ![Episode](/Figures/task_example_adult.jpg)
 
-### An early maturity stage insect classification task:
+#### Experiment results:
+![Adult_results](/Figures/adult_results.jpg)
+
+### Early maturity stage insect classification task:
 
 ![Episode](/Figures/task_example_adult.jpg)
 
-## Experiment results:
+#### Experiment results:
+![Early_results](/Figures/adult_results.jpg)
 
-|                  | Fashion-SMALL  |     |      |      |      |       |
-|------------------|----------------|-----|------|------|------|-------|
-| **k-way**        | **2**          |**2**|**5** |**5** |**15**|**15** |
-| **n-shot**       | **1**          |**5**|**1** |**5** |**1** |**5**  |
-| This Repo        | 95.0           |99.0 |79.0  |91.0  |59.1  |74.9   |
+[Requirements](#requirements)
 
