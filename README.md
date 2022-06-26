@@ -5,6 +5,7 @@ Matching networks is referred to [oscarknagg's code](https://github.com/oscarkna
 Prototypical networks is referred to [cnielly's code](https://github.com/cnielly/prototypical-networks-omniglot)
 
 ### Pairwise similarity with Bregman Divergences
+The **[First steps into few-shot image classification](/Figures/task_example_adult.jpg)**: file provides the Bregman divergences used as similarity functions. For use, replace the similarity functions in the chosen Few-shot Learning algorithm.
 
 - Euclidean;
 - Mahalanobis;
@@ -13,7 +14,7 @@ Prototypical networks is referred to [cnielly's code](https://github.com/cnielly
 
 ### Dataset:
 Data set will be uploaded
-**[First steps into few-shot image classification](/Figures/task_example_adult.jpg)**:
+
 
 ### Adult maturity stage insect classification task:
 
