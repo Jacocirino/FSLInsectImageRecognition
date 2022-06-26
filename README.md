@@ -27,21 +27,9 @@ Data set will be uploaded
 
 ## Experiment results:
 
-// Node.js
-let MarkdownIt = require('markdown-it'),
-    MarkdownItMergeCells = require('markdown-it-merge-cells'),
-    md = new MarkdownIt();
-md.use(MarkdownItMergeCells);
-
-// Browser (use dist/bundle.min.js)
-let md = new window.markdownit();
-md.use(window.markdownitMergeCells);
-
-let result = md.render(`
-|1|1|3|4|5|
-|-|-|-|-|-|
-|1|1|2|2|6|
-|1|1|2|2|7|
-|1|4|3|5|5|
-`)
+|                  | Fashion-SMALL  |     |      |      |      |       |
+|------------------|----------------|-----|------|------|------|-------|
+| **k-way**        | **2**          |**2**|**5** |**5** |**15**|**15** |
+| **n-shot**       | **1**          |**5**|**1** |**5** |**1** |**5**  |
+| This Repo        | 95.0           |99.0 |79.0  |91.0  |59.1  |74.9   |
 
