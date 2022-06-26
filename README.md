@@ -13,9 +13,11 @@ The file **[Bregman_divergences](/Bregman_divergences.py)** provides the script 
 - Kullback–Leibler (KL-divergence);
 - Itakura–Saito (IS-divergence).
 
-### Dataset:
-Data set will be uploaded https://drive.google.com/file/d/12iguabGCTC2aVpkP8zTDhOeP6HgndeQ5/view?usp=sharing
+### IP-FSL data set:
+The IP-FSL data set, based on curated images from IP102, is composed 97 classes of adult insect pest images, and 45 classes of early stages, totalling 6,817 images.
 
+IP-FSL can be downloaded here: https://drive.google.com/file/d/12iguabGCTC2aVpkP8zTDhOeP6HgndeQ5/view?usp=sharing
+<!-- <img src="/Figures/task_example_adult.jpg" alt="drawing" width="600"/> -->
 
 ### Adult maturity stage insect classification task:
 
