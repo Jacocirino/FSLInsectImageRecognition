@@ -15,10 +15,9 @@ The file **[Bregman_divergences](/Bregman_divergences.py)** provides the script 
 
 ### IP-FSL data set:
 The IP-FSL data set, based on curated images from IP102, is composed 97 classes of adult insect pest images, and 45 classes of early stages, totalling 6,817 images.
-
 IP-FSL can be downloaded here: https://drive.google.com/file/d/12iguabGCTC2aVpkP8zTDhOeP6HgndeQ5/view?usp=sharing.
 
-<img src="/Figures/data_config.jpg" alt="drawing" width="600"/>
+<img src="/Figures/data_config.jpg" alt="drawing" width="300"/>
 
 ### Adult maturity stage insect classification task:
 
