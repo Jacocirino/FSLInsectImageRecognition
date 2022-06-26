@@ -27,11 +27,21 @@ Data set will be uploaded
 
 ## Experiment results:
 
-|       N-way      | 1-shot                |  5-shot           |
-|                  |-----------------------|-------------------|
-|------------------|----------|-----|------|------|------|-----|
-| **k-way**        | **5**    |**5**|**20**|**20**|      |  |
-| **n-shot**       | **1**    |**5**|**1** |**5** | | |
-| Published        | 98.8     |99.7 |96.0  |98.9  | | |
-| This Repo        | 98.2     |99.4 |95.8  |98.6  | | |
+// Node.js
+let MarkdownIt = require('markdown-it'),
+    MarkdownItMergeCells = require('markdown-it-merge-cells'),
+    md = new MarkdownIt();
+md.use(MarkdownItMergeCells);
+
+// Browser (use dist/bundle.min.js)
+let md = new window.markdownit();
+md.use(window.markdownitMergeCells);
+
+let result = md.render(`
+|1|1|3|4|5|
+|-|-|-|-|-|
+|1|1|2|2|6|
+|1|1|2|2|7|
+|1|4|3|5|5|
+`)
 
