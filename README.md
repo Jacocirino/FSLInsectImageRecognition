@@ -14,7 +14,7 @@ The file **[Bregman_divergences](/Bregman_divergences.py)** provides the script 
 - Itakura–Saito (IS-divergence).
 
 ### Dataset:
-Data set will be uploaded
+Data set will be uploaded https://drive.google.com/file/d/12iguabGCTC2aVpkP8zTDhOeP6HgndeQ5/view?usp=sharing
 
 
 ### Adult maturity stage insect classification task:
