@@ -14,7 +14,7 @@ The file **[Bregman_divergences](/Bregman_divergences.py)** provides the script 
 - Itakura–Saito (IS-divergence).
 
 ### IP-FSL data set:
-The IP-FSL data set, based on curated images from IP102, is composed 97 classes of adult insect pest images, and 45 classes of early stages, totalling 6,817 images.
+The IP-FSL data set, based on curated images from [IP102](https://openaccess.thecvf.com/content_CVPR_2019/html/Wu_IP102_A_Large-Scale_Benchmark_Dataset_for_Insect_Pest_Recognition_CVPR_2019_paper.html), is composed 97 classes of adult insect pest images, and 45 classes of early stages, totalling 6,817 images.
 IP-FSL can be downloaded here: https://drive.google.com/file/d/12iguabGCTC2aVpkP8zTDhOeP6HgndeQ5/view?usp=sharing.
 
 <img src="/Figures/data_config.jpg" alt="drawing" width="300"/>
