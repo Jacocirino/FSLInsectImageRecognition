@@ -6,7 +6,7 @@ Matching networks is referred to [oscarknagg's code](https://github.com/oscarkna
 Prototypical networks is referred to [cnielly's code](https://github.com/cnielly/prototypical-networks-omniglot).
 
 ### Pairwise similarity with Bregman Divergences
-The file **[Bregman_divergences](/Bregman_divergences.py)** provides the script for the divergences used as similarity functions. To use it, add the similarity functions to the chosen Few-shot Learning algorithm.
+The file **[Bregman_divergences](/Bregman_divergences.py)** provides the script for the divergences used as similarity functions. To use it, add the similarity functions to the chosen Few-shot Learning algorithm (Matching and Prototypical networks or another metric-based model).
 
 - Mahalanobis distance;
 - Kullback–Leibler divergence (KL-divergence);
