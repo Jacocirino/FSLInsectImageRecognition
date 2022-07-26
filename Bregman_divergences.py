@@ -1,5 +1,5 @@
 '''
-Script for compute pairwise divergences in Prototypical Networks and Matching networks
+A Script for computing pairwise divergences in Prototypical Networks and Matching networks
 Author: Jacó Gomes
 '''
 
@@ -77,19 +77,6 @@ def pairwise_divergences(x: torch.Tensor,
         eps = 0.01
 
         return (((x+eps) / (y+eps)) - torch.log((x+eps) / (y+eps)) - 1).sum(2)
-
-    # Euclidean distance
-    elif divergence == 'euclidean': # From cnielly's code: https://github.com/cnielly/prototypical-networks-omniglot
-
-        n = x.size(0)
-        m = y.size(0)
-        d = x.size(1)
-        assert d == y.size(1)
-
-        x = x.unsqueeze(1).expand(n, m, d)
-        y = y.unsqueeze(0).expand(n, m, d)
-
-        return torch.pow(x - y, 2).sum(2)
 
     else:
         raise(ValueError('Unsupported similarity function'))
