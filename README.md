@@ -6,15 +6,14 @@ Matching networks is referred to [oscarknagg's code](https://github.com/oscarkna
 Prototypical networks is referred to [cnielly's code](https://github.com/cnielly/prototypical-networks-omniglot).
 
 ### Pairwise similarity with Bregman Divergences
-The file **[Bregman_divergences](/Bregman_divergences.py)** provides the script for the divergences used as similarity functions. For use, replace the similarity functions in the chosen Few-shot Learning algorithm.
+The file **[Bregman_divergences](/Bregman_divergences.py)** provides the script for the divergences used as similarity functions. To use it, add the similarity functions to the chosen Few-shot Learning algorithm.
 
-- Euclidean;
 - Mahalanobis;
 - Kullback–Leibler (KL-divergence);
 - Itakura–Saito (IS-divergence).
 
 ### IP-FSL data set:
-The IP-FSL data set, based on curated images from [IP102](https://openaccess.thecvf.com/content_CVPR_2019/html/Wu_IP102_A_Large-Scale_Benchmark_Dataset_for_Insect_Pest_Recognition_CVPR_2019_paper.html), is composed 97 classes of adult insect pest images, and 45 classes of early stages, totalling 6,817 images.
+The IP-FSL data set, based on curated images from [IP102](https://openaccess.thecvf.com/content_CVPR_2019/html/Wu_IP102_A_Large-Scale_Benchmark_Dataset_for_Insect_Pest_Recognition_CVPR_2019_paper.html), is composed 97 classes of adult insect pest images, and 45 classes of early stages, totaling 6,817 images.
 IP-FSL can be downloaded here: https://drive.google.com/file/d/12iguabGCTC2aVpkP8zTDhOeP6HgndeQ5/view?usp=sharing.
 
 <img src="/Figures/data_config.jpg" alt="drawing" width="300"/>
