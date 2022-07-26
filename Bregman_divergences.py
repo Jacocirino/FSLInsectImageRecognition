@@ -1,5 +1,5 @@
 '''
-A Script for computing pairwise divergences in Prototypical Networks and Matching networks
+A Script for computing pairwise divergences in Prototypical Networks and Matching networks.
 Author: Jacó Gomes
 '''
 
