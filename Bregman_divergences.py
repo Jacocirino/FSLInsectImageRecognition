@@ -8,9 +8,9 @@ def pairwise_divergences(x: torch.Tensor,
                          divergence: str) -> torch.Tensor:
     """
     # Arguments
-        x: Query samples. A tensor of shape (n, d). n usually N_way * q_query, and d is the embedding dimension
-        y: Class prototypes. A tensor of shape (N, d). N usually N_way, and d is the embedding dimension
-        divergence: Divergence to compute between samples
+        x: Query samples. A tensor of shape (n, d). n usually N_way * q_query, and d is the embeddings dimension.
+        y: Class prototypes. A tensor of shape (N, d). N usually N_way, and d is the prototypes dimension.
+        divergence: The desired divergence (string).
     Returns:
         A tensor of shape (q_queries * N_way, N_way).
     """  
