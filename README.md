@@ -1,4 +1,4 @@
-This repository provides the supplementary data for the paper: **Insect pest image recognition: A few-shot machine learning approach including maturity stages classification**
+This repository provides the supplementary data for the paper: [Insect pest image recognition: A few-shot machine learning approach including maturity stages classification](https://www.mdpi.com/2073-4395/12/8/1733).
 
 ### Code references
 Matching networks is referred to [oscarknagg's code](https://github.com/oscarknagg/few-shot).
